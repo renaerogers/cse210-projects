@@ -1,0 +1,4 @@
+class james_bond
+{
+    
+}
